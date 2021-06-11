@@ -7,6 +7,6 @@
 <script src="http://code.jquery.com/jquery-latest.js"></script>
 </head>
 <body>
-	test page
+	test page 수정
 </body>
 </html>
